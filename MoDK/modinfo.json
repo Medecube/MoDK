@@ -1,0 +1,10 @@
+{
+    "type": "MOD_INFO",
+    "ident": "MoDK_ID",
+    "name": "MoDK",
+    "authors": [ "Medecube" ],
+    "description": "Adding miscellaneous stuff to the game.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+  

@@ -1,0 +1,88 @@
+[
+  {
+    "type": "recipe",
+    "result": "water_heavy_rg",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 8,
+    "time": "1 h",
+    "batch_time_factors": [ 0, 1 ],
+    "book_learn": [ [ "adv_chemistry", 8 ] ],
+    "qualities": [ { "id": "BOIL", "level": 2 }, { "id": "FINE_DISTILL", "level": 1 } ],
+    "tools": [ [ [ "water_boiling_heat", 200, "LIST" ] ] ],
+    "components": [ [ [ "water_heavy", 5 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "water_heavy",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 8,
+    "time": "5 h",
+    "batch_time_factors": [ 10, 2 ],
+    "book_learn": [ [ "adv_chemistry", 8 ] ],
+    "qualities": [ { "id": "BOIL", "level": 2 }, { "id": "CHEM", "level": 3 } ],
+    "tools": [ [ [ "water_boiling_heat", 200, "LIST" ] ] ],
+    "components": [ [ [ "water", 20 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "hydrogen_sulfide",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "12 h",
+    "batch_time_factors": [ 25, 4 ],
+    "book_learn": [ [ "adv_chemistry", 6 ] ],
+    "qualities": [ { "id": "CHEM", "level": 3 } ],
+    "tools": [ [ [ "water_boiling_heat", 600, "LIST" ] ] ],
+    "components": [
+      [ [ "chem_sulphur", 20 ] ],
+      [ [ "feces_bird", 20 ], [ "feces_cow", 2 ], [ "feces_dog", 10 ], [ "feces_manure", 2 ], [ "feces_roach", 10 ] ]
+    ],
+	  [ [ "mdk_vial", 1 ] ],
+    "flags": [ "ALLOW_ROTTEN" ]
+  },
+  {
+    "type": "recipe",
+    "result": "mdk_deuterium",
+    "category": "AMMO",
+    "skill_used": "cooking",
+    "difficulty": 9,
+    "time": "4 h",
+    "batch_time_factors": [ 25, 4 ],
+    "book_learn": [ [ "adv_chemistry", 9 ] ],
+    "qualities": [ { "id": "CHEM", "level": 3 }, { "id": "CONTAIN", "level": 1 } ],
+    "tools": [ [ [ "water_boiling_heat", 150, "LIST" ] ] ],
+    "components": [ [ [ "hydrogen_sulfide", 20 ] ], [ [ "water_heavy_rg", 80 ] ] ]
+  },
+  {
+    "type": "recipe",
+	"result": "mdk_deuterium_vial",
+	"category": "MAGAZINE",
+	"skill_used": "fabrication",
+	"difficulty": 8,
+	"time": "1 m",
+	"batch_time_factors": [75, 2],
+	"book_learn": [ [ "adv_chemistry", 8 ] ],
+	"qualities": [ { "id": "CHEM", "level": 3 }, { "id": "CONTAIN", "level": 1 } ],
+	"tools": [ [ [ "water_boiling_heat", 5, "LIST" ] ] ],
+	"components": [ [ [ "mdk_deuterium", 1] ], [ [ "test_tube_micro", 1 ] ] ]
+  }, 
+  {
+    "type": "recipe",
+    "result": "mdk_vial",
+    "category": "CONTAINER",
+    "skill_used": "fabrication",
+    "difficulty": 5,
+    "time": "10 m",
+    "book_learn": [ [ "glassblowing_book", 5 ] ],
+    "using": [ [ "blacksmithing_standard", 4 ] ],
+	"qualities": [ { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "pipe", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "forge", 5 ] ] ],
+    "components": [ [ [ "glass_shard", 5 ], [ "jar_glass", 1 ], [ "flask_glass", 1 ], [ "test_tube", 1 ] ] ]
+  }
+]

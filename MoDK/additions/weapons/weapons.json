@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mdk_laser_cannon",
+    "type": "GUN",
+    "name": { "str": "experimental laser rifle" },
+    "description": "Whoever lost this is now in big trouble!",
+    "weight": "8 kg",
+    "volume": "2500 ml",
+    "price": 40000,
+    "to_hit": -1,
+    "bashing": 8,
+    "material": [ "steel", "copper" ],
+    "symbol": "(",
+    "looks_like": "cerberus_laser",
+    "color": "magenta",
+    "ammo": [ "mdk_deuterium" ],
+    "skill": "rifle",
+    "range": 25,
+    "ranged_damage": { "damage_type": "heat", "amount": 20 },
+    "dispersion": 50,
+    "durability": 10,
+    "loudness": 8,
+    "reload": 500,
+    "valid_mod_locations": [ [ "accessories", 4 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
+    "ammo_effects": [ "LASER", "DRAW_AS_LINE" ],
+    "flags": [ "NEVER_JAMS", "NON-FOULING" ],
+    "barrel_length": "250 ml",
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "max_contains_volume": "200 ml",
+        "max_contains_weight": "200 g",
+        "item_restriction": [ "mdk_deuterium_vial" ]
+      }
+    ]
+  }
+]

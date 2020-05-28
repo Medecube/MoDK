@@ -1,0 +1,8 @@
+[
+  {
+    "type": "ammunition_type",
+    "id": "mdk_deuterium",
+    "name": "deuterium",
+    "default": "mdk_deuterium"
+  }
+]

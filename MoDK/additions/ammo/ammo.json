@@ -1,0 +1,42 @@
+[
+  {
+    "type": "AMMO",
+    "id": "mdk_deuterium",
+    "price": 1000,
+    "price_postapoc": 5000,
+    "name": { "str": "mdk_deuterium" },
+    "symbol": "^",
+    "color": "white",
+    "description": "Pure deuterium.",
+    "material": [ "steel" ],
+    "volume": "1 ml",
+	"looks_like": "water",
+    "weight": "1 g",
+    "ammo_type": "mdk_deuterium",
+    "damage": { "damage_type": "heat", "amount": 25, "armor_penetration": 15 },
+    "count": 10,
+    "range": 50,
+    "dispersion": 10,
+    "loudness": 2,
+    "effects": [ "NEVER_MISFIRES" ]
+  },
+  {
+    "id": "mdk_deuterium_vial",
+    "looks_like": "test_tube",
+    "type": "MAGAZINE",
+    "name": { "str": "Deuterium cell" },
+    "description": "A vial filled with deuterium.",
+    "weight": "22 g",
+    "volume": "20 ml",
+    "price": 5000,
+    "price_postapoc": 50,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": [ "mdk_deuterium" ],
+    "capacity": 800,
+    "reliability": 9,
+    "reload_time": 3,
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "mdk_deuterium": 10 }, "watertight": true } ]
+  }
+]
