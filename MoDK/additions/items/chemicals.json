@@ -67,5 +67,29 @@
     "freezing_point": -108,
     "explode_in_fire": true,
     "explosion": { "power": 20, "shrapnel": 0 }
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mdk_deuterium",
+    "name": { "str": "Deuterium" },
+	"use_action": "BLECH",
+    "symbol": "^",
+    "color": "white",
+    "description": "Pure deuterium.",
+    "material": [ "steel" ],
+    "volume": "1 ml",
+	"looks_like": "water",
+	"phase": "liquid",
+    "weight": "2 g",
+    "container": "mdk_vial",
+    "comestible_type": "DRINK",
+    "quench": -100,
+    "healthy": -100,
+    "charges": 1,
+    "category": "chems",
+    "fun": -30,
+    "freezing_point": -108,
+    "explode_in_fire": true,
+    "explosion": { "power": 20, "shrapnel": 0 }
   }
 ]
