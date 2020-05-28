@@ -58,7 +58,7 @@ Progression through this mod:
   
    1. Laser Cannon
     
-      Let's be honest: no matter how Rambo your survival is, he didn't work with CERN or The Pentagon. You have to scavange this weapon from somewhere. During the first days of the Cataclysm, rumors were heard about helicopter convoys transporting prototype weapons to military bases.
+      Let's be honest: no matter how Rambo your survivor is, he didn't work with CERN or The Pentagon. You have to scavange this weapon from somewhere. During the first days of the Cataclysm, rumors were heard about helicopter convoys transporting prototype weapons to military bases.
       
       
    2. Laser Turret
@@ -67,3 +67,4 @@ Progression through this mod:
       
       
     
+TODO: Coconuts and coconut IVs, book for fusion-related chems
