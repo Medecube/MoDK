@@ -1,12 +1,14 @@
 # MoDK
 W.I.P. adding random things to CDDA.
 
+Tested on build: 10698
 
-  Hello, I'm Medecube. This mod is mostly comprised of some stuff I want to add to the game, either for me or for people who don't have time/patience to do it.
+  Hello, I'm Medecube. This mod is mostly comprised of some stuff I want to add to the game, either for me or for people who don't have time/patience to do it. I do this out of respect for the devs of the game: so that no one nags them about something they did, because I for one agree with their choices.
 
 
-  At the moment, there isn't much. Just revamping the obsolete laser turret, and giving it fusion power instead of solar.
-Progression through this mods:
+  At the moment, there isn't much. Just revamping the obsolete laser turret, and giving it fusion power instead of solar. PLEASE, please, if you encounter a problem or a bug, contact me on discord (I'm in both the official CDDA channel and the community one) OR raise an issue. You can do that if you have a suggestion too. 
+  
+Progression through this mod:
 
 
   A. Chems:
@@ -42,11 +44,15 @@ Progression through this mods:
       One step closer to blasting like a stormtrooper. This tiny vial should hold enough deuterium to blast through 5-10 zombies, depending on how skilled you are.
       
       
-   2. Deuterium Vial - Magazine
+   2. Deuterium Vial - Ammo
     
       Now this should be compatible with a weapon. Now only to find one...
       
+   3. Linked Vials - Mag
+   
+      You can't just throw all the vials in the reactor, this makes it more controlable.
       
+
   C.Weapons and Turrets
   
   
