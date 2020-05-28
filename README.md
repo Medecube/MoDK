@@ -28,7 +28,7 @@ Progression through this mod:
       
    3. Reactor Grade Heavy Water
     
-      Now, this where the fun starts. This RG-HW stuff is used in cooling nuclear reactors. It's 99% of the Hydrogen atoms were replaced with it's isotope. However, we still have no use for it yet (and it's even worse for you to drink it!)
+      Now, this where the fun starts. This RG-HW stuff is used in cooling nuclear reactors. 99% of its Hydrogen atoms were replaced with its isotope, Deuterium. However, we still have no use for it yet (and it's even worse for you to drink it!)
       
       
    4. Deuterium
