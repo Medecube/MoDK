@@ -4,7 +4,7 @@
     "name": "MoDK",
     "authors": [ "Medecube" ],
     "description": "Adding miscellaneous stuff to the game.",
-    "category": "content",
+    "category": "misc_additions",
     "dependencies": [ "dda" ]
   }
   
