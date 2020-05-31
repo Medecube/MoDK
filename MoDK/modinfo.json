@@ -3,6 +3,7 @@
     "ident": "MoDK_ID",
     "name": "MoDK",
     "authors": [ "Medecube" ],
+    "maintainers": [ "Medecube" ],
     "description": "Adding miscellaneous stuff to the game.",
     "category": "misc_additions",
     "dependencies": [ "dda" ]
