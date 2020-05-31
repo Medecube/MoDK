@@ -1,7 +1,7 @@
 # MoDK
 W.I.P. adding random things to CDDA.
 
-Tested on build: 10698
+Tested on build: 10710
 
   Hello, I'm Medecube. This mod is mostly comprised of some stuff I want to add to the game, either for me or for people who don't have time/patience to do it. I do this out of respect for the devs of the game: so that no one nags them about something they did, because I for one agree with their choices.
 
@@ -13,7 +13,7 @@ Progression through this mod:
 
   A. Chems:
   
-  (NOTE: All these recipes are unlocked by reading the Advanced Chemistry Book. I'll work on adding another book dedicated to these chems.)
+  (NOTE: All these recipes are unlocked by reading the Research note on fusion.)
   
   
   1. Hydrogen Sulfide
@@ -56,7 +56,7 @@ Progression through this mod:
   C.Weapons and Turrets
   
   
-   1. Laser Cannon
+   1. Experimental Laser Cannon
     
       Let's be honest: no matter how Rambo your survivor is, he didn't work with CERN or The Pentagon. You have to scavange this weapon from somewhere. During the first days of the Cataclysm, rumors were heard about helicopter convoys transporting prototype weapons to military bases.
       
@@ -65,6 +65,10 @@ Progression through this mod:
     
       The mini reactor of the Turret makes it more suitable for use than carrying aroung your portable nuclear bomb. 
       
+    
+   3. Prototype Laser Pistol
+      
+      The first test of the portable fusion reactor on a weapon. It has a smaller magazine than the Cannon, but it is less bulkier. It was a work in progress before the Cataclysm started, but because of its small magazine and low rate of fire, a better weapon had to be produced.
       
     
-TODO: Coconuts and coconut IVs, book for fusion-related chems
+TODO: Coconut IVs
