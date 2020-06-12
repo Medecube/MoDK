@@ -52,6 +52,10 @@ Progression through this mod:
    
       You can't just throw all the vials in the reactor, this makes it more controlable.
       
+   4. Coconut IV - Medicine
+   
+      Now with a coconut and a hose you can make your own post-apocalyptic IV. (Syringe not included, find one to use the IV)
+      
 
   C.Weapons and Turrets
   
@@ -70,7 +74,6 @@ Progression through this mod:
       
       The first test of the portable fusion reactor on a weapon. It has a smaller magazine than the Cannon, but it is less bulkier. It was a work in progress before the Cataclysm started, but because of its small magazine and low rate of fire, a better weapon had to be produced.
       
-    
-TODO: Coconut IVs
+   
 
 Now maintaining: Hydroponics!
