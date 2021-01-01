@@ -1,6 +1,7 @@
 # MoDK
 W.I.P. adding random things to CDDA.
 
+Note: bussy with college, will resume in 2021
 Tested on build: 10710
 
   Hello, I'm Medecube. This mod is mostly comprised of some stuff I want to add to the game, either for me or for people who don't have time/patience to do it. I do this out of respect for the devs of the game: so that no one nags them about something they did, because I for one agree with their choices.
